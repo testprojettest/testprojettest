@@ -19,11 +19,11 @@
 ** @brief
 **         Main module.
 **         This module contains user's application code.
-*/         
+*/
 /*!
 **  @addtogroup main_module main module documentation
 **  @{
-*/         
+*/
 /* MODULE main */
 
 
@@ -51,7 +51,9 @@ int main(void)
   /*** End of Processor Expert internal initialization.                    ***/
 
   /* Write your code here */
-  /* For example: for(;;) { } */
+   for(;;) {
+	   for(;;) { }
+   }
 
   /*** Don't write any code pass this line, or it will be deleted during code generation. ***/
   /*** RTOS startup code. Macro PEX_RTOS_START is defined by the RTOS component. DON'T MODIFY THIS CODE!!! ***/
