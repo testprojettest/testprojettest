@@ -53,6 +53,9 @@ int main(void)
   /* Write your code here */
    for(;;) {
 	   for(;;) { } //
+
+
+
    }
 
   /*** Don't write any code pass this line, or it will be deleted during code generation. ***/
