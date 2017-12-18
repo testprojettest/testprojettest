@@ -54,8 +54,6 @@ int main(void)
    for(;;) {
 	   for(;;) { } //
 
-
-
    }
 
   /*** Don't write any code pass this line, or it will be deleted during code generation. ***/
